@@ -21,6 +21,9 @@ etc/firmware/left.tfa9890_n1c2.patch
 etc/firmware/left.tfa9890_ringtone_table.preset
 etc/firmware/left.tfa9890_voice_table.preset
 
+# Bluetooth 
+vendor/lib/libbt-vendor.so
+
 # Camera
 bin/mm-qcamera-daemon
 lib/libAisAdapter.so
